@@ -2,8 +2,6 @@
 
 I’m a software architect and independent builder exploring the intersection of **AI, Agents, Measurement, and Systems**.
 
-I like to think from first principles, build small experiments, and turn interesting ideas into working systems.
-
 ## What I’m exploring
 
 ### 🤖 AI Agents
@@ -24,7 +22,6 @@ I’m particularly interested in:
 
 Distributed systems, infrastructure, software architecture, AI runtimes, and the systems required to turn intelligence into reliable products.
 
----
 
 ## A few principles
 
@@ -32,16 +29,5 @@ Distributed systems, infrastructure, software architecture, AI runtimes, and the
 > Bet on Agent fundamentals, not Agent hype.  
 > Measure the world; measurement is scarce.
 
----
 
-## Projects
-
-| Project | What it explores |
-| --- | --- |
-| [oh-my-agentX](https://github.com/xiuwensu/oh-my-agentX) | Portable architecture for long-lived AI agents |
-| [oh-my-work-daily](https://github.com/xiuwensu/oh-my-work-daily) | Public notes, research, and ongoing exploration |
-
----
-
-I’m interested in ideas that become more valuable with time:
-**intelligence, state, measurement, memory, and systems.**
+I like to think from first principles, build small experiments, and turn interesting ideas into working systems.
