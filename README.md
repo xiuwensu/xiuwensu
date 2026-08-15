@@ -20,12 +20,6 @@ I’m particularly interested in:
 
 → [oh-my-agentX](https://github.com/xiuwensu/oh-my-agentX)
 
-### 📏 Measurement Intelligence
-
-How can AI turn an ambiguous question into a rigorous, executable, and continuously validated measurement system?
-
-> **Turn questions into measurable systems.**
-
 ### 🏗️ Systems & Architecture
 
 Distributed systems, infrastructure, software architecture, AI runtimes, and the systems required to turn intelligence into reliable products.
@@ -45,7 +39,6 @@ Distributed systems, infrastructure, software architecture, AI runtimes, and the
 | Project | What it explores |
 | --- | --- |
 | [oh-my-agentX](https://github.com/xiuwensu/oh-my-agentX) | Portable architecture for long-lived AI agents |
-| Measurement Intelligence | An ongoing research project on turning questions into measurable systems |
 | [oh-my-work-daily](https://github.com/xiuwensu/oh-my-work-daily) | Public notes, research, and ongoing exploration |
 
 ---
