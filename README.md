@@ -1,4 +1,4 @@
-# Xiao (Xiuwen Su) 👋
+# Yuan Guo (Xiuwen Su) 👋
 
 I’m a software architect and independent builder exploring the intersection of **AI, Agents, Measurement, and Systems**.
 
